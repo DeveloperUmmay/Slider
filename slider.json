@@ -1,0 +1,14 @@
+[
+  {
+    "image": "https://example.com/flags/bd.png",
+    "text": "Bangladesh"
+  },
+  {
+    "image": "https://example.com/flags/in.png",
+    "text": "India"
+  },
+  {
+    "image": "https://example.com/flags/us.png",
+    "text": "United States"
+  }
+]
